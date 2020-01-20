@@ -1,4 +1,4 @@
-baseurl = "http://eckhart.github.io/"
+baseurl = "https://www.uh-iaas.no/"
 languageCode = "en-GB"
 title = "UH IaaS"
 theme = "iaas"

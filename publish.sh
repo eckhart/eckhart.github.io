@@ -18,4 +18,4 @@ git commit -m "$msg"
 git push origin master
 
 # Do a subtree push to the public_html branch
-git subtree push --force --prefix=public git@github.com:eckhart/www_docs.git gh-pages
+git subtree push --prefix=public git@github.com:eckhart/www_docs.git gh-pages
